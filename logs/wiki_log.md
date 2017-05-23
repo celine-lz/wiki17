@@ -11,7 +11,9 @@ Wiki team log
 **Celine**: Content Manager (Wet Lab)
 **Golsa**: Content Manager (Dry Lab)
 **Salma**: Content Manager (PnP)
+
 ----
+
 ### Tentative Deadlines
 Total project time: 23 weeks (14 weeks Before September)
 
