@@ -75,11 +75,11 @@ Gerstein Marvin Room.*
     - Develop wiki: coding aspect
   - Content Designers
     - Weekly logging and report updates to wiki meetings
-    - Find opportunities for data visualization and report to the wiki meeting
+    - Find opportunities for data visualization and graphical elements and report to the wiki meeting
     - Attend weekly igem meetings
   - designer
     - Develop wiki mockup
-    -
+    - Develop graphical and data visualization elements
   - REMEMBER to always interact with everyone in the team
 - Github
   - Our repo: https://github.com/igemuoftATG/wiki17
@@ -99,13 +99,17 @@ Gerstein Marvin Room.*
   - Give access to the interested individuals to github repo
 
 #### Meeting Summary
-- asfd
-
+- Registered to igem Website (5/8)
+- Discussed weekly meeting times
 #### TODO
+- Send your Github account name on slack (either PM or #wiki)
+- Register to iGem website (PM me on slack for Team membership code)
+- Determine weekly meeting time on when2meet.
+- Make a group interested in developing igem website.
 - Research past wiki winners **(Web devs + designers)**
   - Find 2008 and 2016 list:
     - [year].igem.org/Results (for 2015-2016)
-    - http://igem.org/Results?year=[year]&name=Championship&division=igem
+    - igem.org/Results?year=[year]&name=Championship&division=igem (for 2008-2014)
   - Brainstorm ideas for wiki design
   - Post messages on slack channel about your findings
 - Start weekly logging **(content managers)**
