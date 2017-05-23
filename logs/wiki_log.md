@@ -102,8 +102,9 @@ Gerstein Marvin Room.*
 
 #### TODO
 - Research past wiki winners **(Web devs + designers)**
-  - Find 2015 and 2016 list:
-    - [year].igem.org/Results
+  - Find 2008 and 2016 list:
+    - [year].igem.org/Results (for 2015-2016)
+    - http://igem.org/Results?year=[year]&name=Championship&division=igem
   - Brainstorm ideas for wiki design
   - Post messages on slack channel about your findings
 - Start weekly logging **(content managers)**
