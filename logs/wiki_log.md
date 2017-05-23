@@ -116,7 +116,12 @@ Gerstein Marvin Room.*
   - I will introduce each individual to the leads of the other teams to get started
   - Attend a meeting with your designated group
   - Find a buddy from that team to get regular updates
-
+- Figure out how to store psd/ai files for visual content (fahim)
+  - Separate github repo?
+  - Asana?
+  - Google drive?
+  - Slack?
+- Figure out how asana cards work (fahim)
 ---
 ### Week 2: May 29 - June 4
 
