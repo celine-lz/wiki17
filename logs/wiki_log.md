@@ -34,6 +34,7 @@ Total project time: 23 weeks (14 weeks Before September)
 **Week 2 - Week 6: (May 29 - July 2)**
 - Finish developing mockup
 - *depends on whether project is finalized*
+- Finish creating the description
 
 **Week 5 - Week 7: (June 19 - July 9) *Optional***
 - Update wiki generator
