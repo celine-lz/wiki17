@@ -1,6 +1,7 @@
-# Wiki
-#### iGEM Toronto 2017
-
-<br>
+iGEM Toronto 2017 Wiki
+======================
+---
 
 Hello.
+
+Welcome to Wiki17.
