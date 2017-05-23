@@ -4,12 +4,19 @@ Wiki team log
 ### Team Members
 
 **Fahim**: Lead
+
 **Samantha**: Web developer + Designer
+
 **Tracy**: Designer + Data Visualization
+
 **Taneisha**: Web Developer
+
 **Kogulan**: Designer
+
 **Celine**: Content Manager (Wet Lab)
+
 **Golsa**: Content Manager (Dry Lab)
+
 **Salma**: Content Manager (PnP)
 
 ----
