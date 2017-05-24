@@ -24,14 +24,14 @@ Wiki team log
 ### Tentative Deadlines
 Total project time: 23 weeks (14 weeks Before September)
 
-**Week 1:  (May 22 - May 28)**
+**Week 1:  (May 22 - June 4)**
 - Research past winners and brainstorm ideas
 
-**Week 2 - Week 4: (May 29 - June 18)**
+**Week 3 - Week 4: (June 5 - June 18)**
 - Become comfortable with wiki generator
 - Decide on necessary changes to wiki generator
 
-**Week 2 - Week 6: (May 29 - July 2)**
+**Week 3 - Week 6: (June 5 - July 2)**
 - Finish developing mockup
 - *depends on whether project is finalized*
 - Finish creating the description
