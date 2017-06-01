@@ -128,9 +128,16 @@ Gerstein Marvin Room.*
 #### Meeting Outline
 
 #### Meeting Summary
+- http://2015.igem.org/Team:Oxford
+- Unnecessary graphics doesn't need to be there
+- Progress bar on the left side
+- Classed divs to navigate specific parts of the notebook and protocol
+- Search within the notebook (similar to http://lattice.cf/docs/vagrant/ and https://cobrapy.readthedocs.io/en/latest/getting_started.html) but all in a single page.
 
 #### TODO
-
+- Come up with ideas for a theme based on the proposal
+- Try the wiki generator
+- Weekly logging as usual
 ---
 ### Week 3: June 5 - June 11
 
