@@ -36,7 +36,11 @@ Drylab log
 
 #### Meeting Summary
 
+Went over the concept of gene regulatory network
+Introduced igem Mathworks 
+
 #### TODO
+Getting familiar with Matlab and Mathworks (watching the tutorials)
 
 ---
 ### Week 4: June 12 - June 18
