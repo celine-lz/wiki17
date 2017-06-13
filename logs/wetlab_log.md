@@ -17,6 +17,7 @@ Wetlab log
 #### Meeting Outline
 
 #### Meeting Summary
+* Background reading for the project (see wet lab reading list folder on Zotero)
 
 #### TODO
 
@@ -26,6 +27,8 @@ Wetlab log
 #### Meeting Outline
 
 #### Meeting Summary
+* Filled out and submitted RRFs 
+* Met with Dr. Mahadevan to have RRFs signed (all except Victoria, who got an electronic signature)
 
 #### TODO
 
@@ -35,8 +38,11 @@ Wetlab log
 #### Meeting Outline
 
 #### Meeting Summary
+* Plasmid design workshop
+* RRFs were all approved!
 
 #### TODO
+* Lab move-in
 
 ---
 ### Week 4: June 12 - June 18
