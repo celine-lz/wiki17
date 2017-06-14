@@ -141,25 +141,28 @@ Gerstein Marvin Room.*
 ---
 ### Week 3: June 5 - June 11
 
-#### Meeting Outline
-
 #### Meeting Summary
+- Went over possible ideas for wiki theme
+- Discussed PnP ideas related to germline editing
 
 #### TODO
-
+- Wiki mockup
+- Figure out how to push to igem server with igem wiki generator
+- Work on iGEM Toronto brand identity
 ---
 ### Week 4: June 12 - June 18
 
-#### Meeting Outline
-
 #### Meeting Summary
+- Went over the four possible color palettes developed by Tracy
+- Went over the possible logo designs developed by Kogulan
 
 #### TODO
-
+- Choose a color palette
+- Change the logos to fit the chose color palette
+- Develop some mock up pages
+- Have rough draft for description from each team
 ---
 ### Week 5: June 19 - June 25
-
-#### Meeting Outline
 
 #### Meeting Summary
 
