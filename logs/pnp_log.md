@@ -29,7 +29,7 @@ Policies and Practices team log
 - Podcast group: Deciding podcast strucutre, considering looking at synth bio from the perspective of different disciplines, inviting     team members from wet lab, dry lab, RnD, and doctors to provide their insight into it
 
 - Summer camp: Want to have activities over the course of a few days that are based on each group (dry lab, wet lab, etc)
-  Possible activities: CRISPR 101 crash course with a wet lab member, coding with R/Python with dry lab. Panel with high school students   moderated by pnp members, talking about synth bio and high school
+  Possible activities: CRISPR 101 crash course with a wet lab member, coding with R/Python with dry lab. Panel with high school students   moderated by pnp members, talking about synth bio and high school.
   
 - Iconathon: Pairing artists with scientists to design an icon related to synthbio
 
