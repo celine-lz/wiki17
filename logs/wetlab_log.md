@@ -6,6 +6,10 @@ Wetlab log
 **Name**: Position
 
 ----
+### Project Description
+
+
+----
 ### Tentative Deadlines
 
 **Week #:  (Date 1 - Date 2)**
@@ -50,6 +54,9 @@ Wetlab log
 #### Meeting Outline
 
 #### Meeting Summary
+* Finalized plasmids and assay protocols
+* Managers and leads met with Susie to get lab keys
+* Finalized the proposal
 
 #### TODO
 
@@ -59,6 +66,8 @@ Wetlab log
 #### Meeting Outline
 
 #### Meeting Summary
+* Moved into lab space
+* Met with Vik Pandit to clarify clonetegration protocols
 
 #### TODO
 
