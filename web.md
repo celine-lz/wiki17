@@ -20,7 +20,7 @@ Go with color scheme B or C from Tracy's plattes.
 
 #### Subtle Background Patterns
 
-- Subtle background patterns related to cell biology (Look at link 1 and 2 for similar example) There can be multiple different icons or just one. 
+- Subtle background patterns related to cell biology (Look at link 1 and 3 for similar example) There can be multiple different icons or just one. 
 - Make the pattern icons grey or black and very low in opacity, so that the patterns can be used on any background color. 
 - (Optional) Also it might be nice to have different themed patterns (wet lab, dry lab, pnp theme).
 
