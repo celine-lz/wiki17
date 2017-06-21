@@ -4,13 +4,21 @@ Wetlab log
 ### Team Members
 
 **Ahmed**: Lead
+
 **Carla**: Lead
+
 **Amy**: Manager
+
 **Mark**: Manager
+
 **Gurjit**: Member
+
 **Adele**: Member
+
 **Tian**: Member
+
 **Victor**: Member
+
 **Lindsay**: Member
 
 ----
