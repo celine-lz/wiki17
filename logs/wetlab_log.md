@@ -3,11 +3,19 @@ Wetlab log
 ----
 ### Team Members
 
-**Name**: Position
+**Ahmed**: Lead
+**Carla**: Lead
+**Amy**: Manager
+**Mark**: Manager
+**Gurjit**: Member
+**Adele**: Member
+**Tian**: Member
+**Victor**: Member
+**Lindsay**: Member
 
 ----
 ### Project Description
-
+The wet lab study a LacILOV/cI repressor circuit for the purpose of controlling CRISPR gene editing. The LacILOV repressor is a light-activated fusion protein which represses downstream transcription of sgRNA necessary for CRISPR-Cas9 targeting and the cI repressor in the dark, but allows transcription in blue light. The cI repressor prevents transcription of the anti-CRISPR protein AcrIIA4spy, thus forming a complementary "OFF" command for the LacILOV-controlled sgRNA "ON" switch. The switch will be validated in *E. coli* cells in a circuit, using the response YFP and mCherry to measure its kinetics via fluorescence and qPCR assays. Finally, CRISPR activity will be tested by targeting the *araC* gene with CRISPRi for silencing, and measuring the resulting population levels in an arabinose environment. 
 
 ----
 ### Tentative Deadlines
