@@ -50,18 +50,31 @@ Getting familiar with Matlab and Mathworks (watching the tutorials)
 #### Meeting Summary
 
 •	Develop model to measure dynamics
+
 •	Implement model in matlab library creating a flow chart, using rate kinetics given by the wet lab
+
 •	Figure out how the model works before moving on
+
 •	Optimize the model using degradation, intensity of light, etc
+
      o	Researching s-avenues 
+     
      o	Will be done in September 
-•	Type of model we’re using ->
+     
+•Type of model we’re using ->
+
      o	Not Boolean = only an on and off representation
+     
      o	Not continuous = allows for a gradient of proteins; deterministic = no probability
+     
      o	Not coupled differential equation -> considered for ease of progress
+     
      o	Stochastic = relies on random variables, represents each of the reactions as a probability distribution
+     
 •	mRNA is Poisson distribution while gene activation is like coin flip 
+
 •	trying to find a compromise of a stochastic model 
+
 •	Bioinformatics Learning Tool = Developing an app that allows people to better understand the messy and complex field of bioinformatics 
 
 
