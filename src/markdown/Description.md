@@ -1,33 +1,13 @@
-### ★ ALERT!
+<h1>Wetlab</h1>
 
-This page is used by the judges to evaluate your team for the [improve a previous part or project gold medal criterion](http://2016.igem.org/Judging/Medals).
+The wet lab study a LacILOV/cI repressor circuit for the purpose of controlling CRISPR gene editing. The LacILOV repressor is a light-activated fusion protein which represses downstream transcription of sgRNA necessary for CRISPR-Cas9 targeting and the cI repressor in the dark, but allows transcription in blue light. The cI repressor prevents transcription of the anti-CRISPR protein AcrIIA4spy, thus forming a complementary "OFF" command for the LacILOV-controlled sgRNA "ON" switch. The switch will be validated in E. coli cells in a circuit, using the response YFP and mCherry to measure its kinetics via fluorescence and qPCR assays. Finally, CRISPR activity will be tested by targeting the araC gene with CRISPRi for silencing, and measuring the resulting population levels in an arabinose environment.
 
-Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
+<h1>Drylab</h1>
 
-Tell us about your project, describe what moves you and why this is something important for your team.
+Our dry lab team is responsible for developing a model of the gene circuit designed by the wet lab. Previous studies have illustrated the stochastic nature of gene regulatory networks, indicating the complexity of interactions. Thus, stochastic model algorithms will be used to simplify the complexity of gene regulation. Specifically, the dry lab team will recreate the gene pathway and determine the rate kinetics of the many outputs of our system, using the data provided by the wet lab. Next, the dynamics of our CRISPR-Cas 9 system will be analyzed with MATLAB Symbio Library. Finally, our wet lab team will implement the newly designed genetic circuit using the optimized model created by the dry lab.
 
-##### What should this page contain?
+<h1>Policy & Practices</h1>
 
-*   A clear and concise description of your project.
-*   A detailed explanation of why your team chose to work on this particular project.
-*   References and sources to document your research.
-*   Use illustrations and other visual resources to explain your project.
+While the light activated CRISPR-Cas 9 system developed in this project should provide scientists with greater control and accuracy when gene editing, its effects on a larger scale (at the level of multicellular organisms such as humans or plants) are more contested. The indefinite nature of this technology has resulted in barriers to integrating it into mainstream healthcare and policy discourse.
 
-##### Advice on writing your Project Description
-
-We encourage you to put up a lot of information and content on your wiki, but we also encourage you to include summaries as much as possible. If you think of the sections in your project description as the sections in a publication, you should try to be consist, accurate and unambiguous in your achievements.
-
-Judges like to read your wiki and know exactly what you have achieved. This is how you should think about these sections; from the point of view of the judge evaluating you at the end of the year.
-
-##### References
-
-iGEM teams are encouraged to record references you use during the course of your research. They should be posted somewhere on your wiki so that judges and other visitors can see how you thought about your project and what works inspired you.
-
-##### Inspiration
-
-See how other teams have described and presented their projects:
-
-*   [Imperial](http://2014.igem.org/Team:Imperial/Project)
-*   [UC Davis](http://2014.igem.org/Team:UC_Davis/Project_Overview)
-*   [SYSU Software](http://2014.igem.org/Team:SYSU-Software/Overview)
-
+Although mathematical modeling will attempt to increase the accuracy of our gene editing system it is important to understand and address societal apprehensions to integrating it into mainstream discourse. To investigate these barriers our team will create a dialogue with individuals who represent diverse cultural, economic, and religious backgrounds. These will include local politicians, healthcare professionals, members of religious communities, and end users who will be affected by the inclusion of this technology into mainstream healthcare. Through this dialogue we hope to provide a diverse understanding of the manner in which this technology will shape, and is shaped by, the political and social landscape of Canada. Our team also seeks to engage the broader public in dialogue on synthetic biology by making it more accessible in three ways. The first is by educating and engaging high school students through a summer camp which incorporates activities such as protein modeling, coding, and case studies. Through this camp we seek to provide practical skills to students and foster an interest in synthetic biology and introduce the social impacts of it. The second will pair scientists and artists for a daylong Iconathon event. Not only will the icons created through this event be used to enrich the currently meager synthetic biology icon repository, it will also act as a way to educate artists about synthetic biology in an interdisciplinary fashion. Finally, a five episode podcast related to synthetic biology will engage industry professionals, specialists, and our own team members to educate a wider audience.
