@@ -95,8 +95,11 @@ Possible subjects: Politicans and legislators, members of religous communities, 
 #### Meeting Outline
 
 #### Meeting Summary
+- Summer camp will be two long days, most likely weekend before Labour Day
+- Iconathon to be July 29 or 30
 
 #### TODO
+- Possibly changing meeting days
 
 ---
 ### Week 7: July 3 - July 9
