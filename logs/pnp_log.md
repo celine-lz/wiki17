@@ -107,6 +107,7 @@ Possible subjects: Politicans and legislators, members of religous communities, 
 #### Meeting Outline
 
 #### Meeting Summary
+- 
 
 #### TODO
 
@@ -116,6 +117,13 @@ Possible subjects: Politicans and legislators, members of religous communities, 
 #### Meeting Outline
 
 #### Meeting Summary
+- Podcast: Coming up with mini episode questions, dividing up focus into collab episodes and main episodes. Contacting people for episodes 4 +5. Finish ethics episode
+
+- Iconathon: Finding a possible guest speaker, promote. HS 108 booked
+
+- Summer camp: Reaching out to IBBME for possible wet lab space. Coming up with case studies and wet lab activites
+
+-Vidoes: Draft questions for religion, policy, ethics, engineering, sociology, medicine. Find more potential interviewees
 
 #### TODO
 
@@ -125,6 +133,15 @@ Possible subjects: Politicans and legislators, members of religous communities, 
 #### Meeting Outline
 
 #### Meeting Summary
+- Podcast: Contact list to be completed and email drafts written, art and ethics episode script. Reach out to other iGEM teams to collab on podcast
+
+- Iconation: Promote, list of topics for possible icons
+
+- Summer camp: Confirm if a lab is needed, come up with timeline for activites
+
+- Vidoes: Finish up contact list and draft emails
+
+REB application signed
 
 #### TODO
 
